@@ -46,7 +46,7 @@ public class Deck
              }
         }
 }
-public class Program
+public class Program		
 {
 	public static void Main()
 	{
